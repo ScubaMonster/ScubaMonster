@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ScubaMonster
-- 👀 I’m interested in motion graphics
+- 👋 Hi, I’m Aspa (they/them)
+- 👀 I’ve studied motion graphics
 - 🌱 I’m currently learning HTML/CSS
 - 💞️ I’m looking to collaborate on junior Web Dev projects
 - 📫 How to reach me: Instagram @aspa_lefthanded_arts
